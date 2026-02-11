@@ -1,4 +1,4 @@
-# learning_flutter
+# Calculator-App
 
 A new Flutter project.
 
